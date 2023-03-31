@@ -1,6 +1,6 @@
 Name:		texlive-luaoptions
 Version:	64870
-Release:	1
+Release:	2
 Summary:	Option handling for LuaLaTeX packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaoptions
